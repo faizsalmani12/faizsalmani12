@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=faizsalamni12&label=Profile+views&color=2563eb&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=faizsalmani12&label=Profile+views&color=2563eb&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -50,14 +50,14 @@ I'm a BCA (Data Science) student at Amity University, Delhi. I enjoy building we
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizsalamni12&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsalamni12&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizsalmani12&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsalmani12&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizsalamni12&theme=minimal&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/2563eb/faizsalmani12" alt="Contribution graph" width="90%" />
 
 </div>
 
@@ -70,8 +70,8 @@ I'm a BCA (Data Science) student at Amity University, Delhi. I enjoy building we
 <a href="mailto:faizsalmani7042@gmail.com">
   <img src="https://img.shields.io/badge/Email-faizsalmani7042%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/faizsalamni12">
-  <img src="https://img.shields.io/badge/GitHub-faizsalamni12-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/faizsalmani12">
+  <img src="https://img.shields.io/badge/GitHub-faizsalmani12-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <!-- Add your LinkedIn here:
 <a href="https://linkedin.com/in/YOUR-USERNAME">
